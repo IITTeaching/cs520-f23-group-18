@@ -1,3 +1,3 @@
 # cs520-f23-group-18
-Data Curation Project draft:
-https://drive.google.com/file/d/1Hksd73ow4rTBIJLy9Ji_SFSgmf24v5YM/view
+Data Curation Project Folder Draft:
+https://drive.google.com/drive/folders/1LCFzUaMQKU06d61eo_nEj5l7F-6ZxeWW
